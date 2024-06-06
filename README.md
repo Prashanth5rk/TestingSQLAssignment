@@ -8,4 +8,7 @@ Feature: Automate the Flipkart sale
   When Find 3rd result of Hp Laptop.
   Then Display Hp Laptop Details.
 
-  ![image](https://github.com/Prashanth5rk/TestingSQLAssignment/assets/95924361/29630aa7-36b5-4aad-af77-b9eca81e9e3d)
+  ![image](https://github.com/Prashanth5rk/TestingSQLAssignment/assets/95924361/656b8425-b7f9-4825-85dd-b59654143224)
+
+
+
